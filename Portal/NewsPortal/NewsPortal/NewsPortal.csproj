@@ -106,9 +106,9 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
+    <ProjectReference Include="..\BusinessLogic\BLL.csproj">
       <Project>{5fa3be26-f081-407d-8e43-7b6dad443b95}</Project>
-      <Name>BusinessLogic</Name>
+      <Name>BLL</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

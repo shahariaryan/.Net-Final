@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using DataAccess;
 
-namespace BusinessLogic
+namespace BLL
 {
     public class NewsService
     {

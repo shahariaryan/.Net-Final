@@ -51,9 +51,9 @@
     <Compile Include="ReactionModel.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+    <ProjectReference Include="..\DataAccess\DAL.csproj">
       <Project>{db6ec82f-7df7-4afd-90f2-b1b397f35b65}</Project>
-      <Name>DataAccess</Name>
+      <Name>DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
